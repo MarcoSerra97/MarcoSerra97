@@ -1,4 +1,42 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
+
+<table>
+<tr>
+<td valign="top">
+<pre>
+┌────────────────────────────────────────────────┐
+│                                                │
+│  I am a string theory PhD now transitioning    │
+│  into quantitative research. I like to         │
+│  combine machine learning with ideas from      │
+│  fundamental physics for alpha prediction and  │
+│  portfolio construction.                       │
+│                                                │
+│  Feel free to reach out!                       │
+│                                                │
+└────────────────────────────────────────────────┘
+</pre>
+</td>
+<td valign="top">
+<pre>
+Repositories
+├── <a href="https://github.com/MarcoSerra97/spectral-alpha">spectral-alpha</a>
+└── <a href="https://github.com/MarcoSerra97/portfolio-risk-covariance">portfolio-risk-covariance</a>
+
+String Phenomenology Papers
+├── <a href="https://arxiv.org/abs/2512.20570">The cosmological constant and</a>
+│   <a href="https://arxiv.org/abs/2512.20570">dark dimensions from</a>
+│   <a href="https://arxiv.org/abs/2512.20570">non-supersymmetric strings</a>
+└── <a href="https://arxiv.org/abs/2407.16781">On (A)dS solutions from</a>
+    <a href="https://arxiv.org/abs/2407.16781">Scherk-Schwarz orbifolds</a>
+</pre>
+</td>
+</tr>
+</table>
+
+<a href="https://www.linkedin.com/in/YOUR_ID">LinkedIn</a>
+
+![Visits](https://komarev.com/ghpvc/?username=MarcoSerra97&label=Visits&color=blue&style=flat)
 
 <!--
 **MarcoSerra97/MarcoSerra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
