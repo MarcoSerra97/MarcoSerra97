@@ -1,6 +1,7 @@
-# Welcome to my GitHub 👋
 
 <pre>
+  Welcome to my GitHub 👋
+
 ┌────────────────────────────────────────────────┐
 │                                                │   📈 Repositories
 │  I am a string theory PhD now transitioning    │   ├── <a href="https://github.com/MarcoSerra97/spectral-alpha">spectral-alpha</a>
