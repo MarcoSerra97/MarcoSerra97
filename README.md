@@ -8,9 +8,9 @@
 │  into quantitative research. I like to         │   └── <a href="https://github.com/MarcoSerra97/portfolio-risk-covariance">portfolio-risk-covariance</a>
 │  combine machine learning with ideas from      │
 │  fundamental physics for alpha prediction and  │   📚 Academic publications
-│  portfolio construction.                       │   ├── <a href="https://arxiv.org/abs/2512.20570">The cosmological constant and dark dimensions</a>
-│                                                │   │   <a href="https://arxiv.org/abs/2512.20570">from non-supersymmetric strings</a>
-│  Feel free to reach out!                       │   └── <a href="https://arxiv.org/abs/2407.16781">On (A)dS solutions from Scherk-Schwarz orbifolds</a>
+│  portfolio construction.                       │   ├── <a href="https://link.springer.com/article/10.1007/JHEP10(2026)212">The cosmological constant and dark dimensions</a>
+│                                                │   │   <a href="https://link.springer.com/article/10.1007/JHEP10(2026)212">from non-supersymmetric strings</a>
+│  Feel free to reach out!                       │   └── <a href="https://link.springer.com/article/10.1007/JHEP10(2024)039">On (A)dS solutions from Scherk-Schwarz orbifolds</a>
 │                                                │
 └────────────────────────────────────────────────┘
 </pre>
